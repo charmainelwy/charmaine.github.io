@@ -15,7 +15,7 @@
 ### Forecasting Dengue Incidence in Singapore (R)
 
 [![Open Code](https://img.shields.io/badge/R-Open_Codes-blue?logo=R)](https://github.com/charmainelwy/dengueforecasting/blob/main/code.R)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/charmainelwy/dengueforecasting/blob/main/Project%20Report.docx)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/charmainelwy/dengueforecasting/blob/main/Project%20Report.docx)
 
 <div style="text-align: justify">I applied BoxCox transformation on rainfall and temperature data. Next, I used various ARIMA models (SARIMA, ARIMAX, ARIMA, SARIMAX) and feed forward neural networks to forecast dengue cases. Seasonal naive and dynamic harmonic regression methods were used. </div>
 <br>
@@ -37,7 +37,7 @@
 ---
 ### Classifying cat and dogs using Convolution Neural Network CNN (Python)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/charmainelwy/catsdogs)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-white?logo=GitHub)](https://github.com/charmainelwy/catsdogs)
 
 <div style="text-align: justify">I built a CNN classifier using Asirra dataset to identify cats and dogs. </div>
 <br>
