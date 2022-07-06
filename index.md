@@ -8,7 +8,7 @@
 
 <div style="text-align: justify">In this project I am going to perform upsampling on the heart disease dataset, then use logistic regression with kfold, decision trees and bagging algorithm to predict if the person has heart disease.</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/framingham.png"/></center>
 <br>
 
 ---
@@ -19,7 +19,8 @@
 
 <div style="text-align: justify">I applied BoxCox transformation on rainfall and temperature data. Next, I used various ARIMA models (SARIMA, ARIMAX, ARIMA, SARIMAX) and feed forward neural networks to forecast dengue cases. Seasonal naive and dynamic harmonic regression methods were used. </div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/boxcox.png"/></center>
+<center><img src="images/nnetar.png"/></center>
 <br>
 
 ---
@@ -29,7 +30,8 @@
 
 <div style="text-align: justify">I performed various feature engineering and selection methods, used logistic regression with lasso, PCA, SVM, Decision Trees, Random Forest and KNN to predict students' adaptivity. </div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/kaggle.png"/></center>
+<center><img src="images/kaggle2.png"/></center>
 <br>
 
 ---
@@ -39,11 +41,8 @@
 
 <div style="text-align: justify">I built a CNN classifier using Asirra dataset to identify cats and dogs. </div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/catdog.jpg"/></center>
 <br>
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
