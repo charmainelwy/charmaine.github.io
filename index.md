@@ -3,7 +3,7 @@
 ---
 ### Predict Heart Disease with Framingham Dataset (R)
 
-[![Open Code](https://img.shields.io/badge/R-Open_Code-blue?logo=R)](https://github.com/charmainelwy/Framingham/blob/master/framingham.R)
+[![Open Code](https://img.shields.io/badge/R-Open_Code-9cf?logo=R)](https://github.com/charmainelwy/Framingham/blob/master/framingham.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/charmainelwy/Framingham)
 
 <div style="text-align: justify">In this project I am going to perform upsampling on the heart disease dataset, then use logistic regression with kfold, decision trees and bagging algorithm to predict if the person has heart disease.</div>
