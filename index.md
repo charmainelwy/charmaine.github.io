@@ -3,7 +3,7 @@
 ---
 ### Predict Heart Disease with Framingham Dataset (R)
 
-[![Open Notebook](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+[![Open Code](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)]
 (https://github.com/charmainelwy/Framingham/blob/master/framingham.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/charmainelwy/Framingham)
 
@@ -16,7 +16,7 @@
 
 ### Kaggle: Students' Adaptivity Level in Online Education (Python)
 
-[![View on Kaggle]](https://www.kaggle.com/code/charmainelee/feature-selection-with-logit-svc-dt-rf)
+[![Open Notebook](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.kaggle.com/code/charmainelee/feature-selection-with-logit-svc-dt-rf)
 
 <div style="text-align: justify">I performed various feature engineering and selection methods, used logistic regression with lasso, PCA, SVM, Decision Trees, Random Forest and KNN to predict students' adaptivity. </div>
 <br>
