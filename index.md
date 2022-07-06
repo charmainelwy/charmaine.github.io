@@ -7,13 +7,24 @@
 (https://github.com/charmainelwy/Framingham/blob/master/framingham.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/charmainelwy/Framingham)
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the heart disease dataset, then use logistic regression, decision trees and bagging algorithm to predict if the person has heart disease.</div>
+<div style="text-align: justify">In this project I am going to perform upsampling on the heart disease dataset, then use logistic regression with kfold, decision trees and bagging algorithm to predict if the person has heart disease.</div>
 <br>
 <center><img src="images/breast-cancer.png"/></center>
 <br>
 
 ---
+### Forecasting Dengue Incidence in Singapore (R)
 
+[![Open Code](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)]
+(https://github.com/charmainelwy/dengueforecasting/blob/main/code.R)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/charmainelwy/dengueforecasting/blob/main/Project%20Report.docx)
+
+<div style="text-align: justify">I applied BoxCox transformation on rainfall and temperature data. Next, I used various ARIMA models (SARIMA, ARIMAX, ARIMA, SARIMAX) and feed forward neural networks to forecast dengue cases. Seasonal naive and dynamic harmonic regression methods were used. </div>
+<br>
+<center><img src="images/breast-cancer.png"/></center>
+<br>
+
+---
 ### Kaggle: Students' Adaptivity Level in Online Education (Python)
 
 [![Open Notebook](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.kaggle.com/code/charmainelee/feature-selection-with-logit-svc-dt-rf)
@@ -24,7 +35,14 @@
 <br>
 
 ---
+### Classifying cat and dogs using Convolution Neural Network CNN (Python)
 
+[![Open Notebook](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/charmainelwy/catsdogs)
+
+<div style="text-align: justify">I built a CNN classifier using Asirra dataset to identify cats and dogs. </div>
+<br>
+<center><img src="images/ames-house-price.jpg"/></center>
+<br>
 
 
 
