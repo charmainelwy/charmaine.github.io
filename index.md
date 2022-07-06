@@ -41,7 +41,7 @@
 
 <div style="text-align: justify">I built a CNN classifier using Asirra dataset to identify cats and dogs. </div>
 <br>
-<center><img src="images/catdog.jpg"/></center>
+<center><img src="images/catdog.png"/></center>
 <br>
 
 ---
