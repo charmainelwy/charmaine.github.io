@@ -9,6 +9,7 @@
 <div style="text-align: justify">In this project I am going to perform upsampling on the heart disease dataset, then use logistic regression with kfold, decision trees and bagging algorithm to predict if the person has heart disease.</div>
 <br>
 <center><img src="images/framingham.png"/></center>
+<center><img src="images/framingham2.png"/></center>
 <br>
 
 ---
@@ -21,6 +22,8 @@
 <br>
 <center><img src="images/boxcox.png"/></center>
 <center><img src="images/nnetar.png"/></center>
+<center><img src="images/nn.png"/></center>
+<center><img src="images/arima.png"/></center>
 <br>
 
 ---
@@ -32,6 +35,7 @@
 <br>
 <center><img src="images/kaggle.png"/></center>
 <center><img src="images/kaggle2.png"/></center>
+<center><img src="images/kaggle3.png"/></center>
 <br>
 
 ---
